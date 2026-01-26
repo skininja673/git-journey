@@ -1,7 +1,2 @@
 one - 1
-<<<<<<< Updated upstream
-HELLO
-world
-=======
-making changes from development branch to learn the git stash.
->>>>>>> Stashed changes
+learning concepts of git stash
